@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhdcnan
+- 👋 Hi, I’m Mohammed sinan
 - 👀 I’m interested in java programming
 - 🌱 I’m currently learning bca
 - 💞️ I’m looking to collaborate on 
